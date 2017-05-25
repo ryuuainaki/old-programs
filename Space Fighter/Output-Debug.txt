@@ -1,0 +1,48 @@
+﻿'Hmwk.1.Assignment.exe': Loaded 'C:\dmloveless.hmwk.1\Debug\Hmwk.1.Assignment.exe', Symbols loaded.
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\ntdll.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\kernel32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\KernelBase.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\dmloveless.hmwk.1\SDL.dll', Binary was not built with debug information.
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\advapi32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\msvcrt.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\sechost.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\rpcrt4.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\sspicli.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\cryptbase.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\gdi32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\user32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\lpk.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\usp10.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\winmm.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\dmloveless.hmwk.1\SDL_image.dll', Binary was not built with debug information.
+'Hmwk.1.Assignment.exe': Loaded 'C:\dmloveless.hmwk.1\SDL_ttf.dll', Binary was not built with debug information.
+'Hmwk.1.Assignment.exe': Loaded 'C:\dmloveless.hmwk.1\libfreetype-6.dll', Binary was not built with debug information.
+'Hmwk.1.Assignment.exe': Loaded 'C:\dmloveless.hmwk.1\zlib1.dll', Binary was not built with debug information.
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\msvcp100.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\msvcr100.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\imm32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\msctf.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\ProgramData\Real\RealPlayer\BrowserRecordPlugin\Chrome\Hook\rpchrome150browserrecordhelper.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\winsxs\x86_microsoft.vc90.crt_1fc8b3b9a1e18e3b_9.0.30729.6161_none_50934f2ebcb7eb57\msvcr90.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\shell32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\shlwapi.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\KBDUS.DLL', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Unloaded 'C:\Windows\SysWOW64\KBDUS.DLL'
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\KBDUS.DLL', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Unloaded 'C:\Windows\SysWOW64\KBDUS.DLL'
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\dsound.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\ole32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\powrprof.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\setupapi.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\cfgmgr32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\oleaut32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\devobj.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\dinput.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\hid.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\wintrust.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\crypt32.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\Windows\SysWOW64\msasn1.dll', Cannot find or open the PDB file
+'Hmwk.1.Assignment.exe': Loaded 'C:\dmloveless.hmwk.1\libpng12-0.dll', Binary was not built with debug information.
+The thread 'Win32 Thread' (0x139c) has exited with code 0 (0x0).
+The thread 'Win32 Thread' (0xeb0) has exited with code 0 (0x0).
+The program '[7172] Hmwk.1.Assignment.exe: Native' has exited with code 0 (0x0).

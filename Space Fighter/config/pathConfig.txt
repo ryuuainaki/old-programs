@@ -1,0 +1,11 @@
+GUIPATH=./config/GUI/screen.txt
+LEVELPATH=./config/Levels/level
+LEVELEXT=.txt
+MUS=./sound/space_explorers.ogg
+SS=./config/GameObjects/spaceShip.txt
+NPC=./config/GameObjects/npcSpaceShip.txt
+DEF=./config/GameObjects/defendNPC.txt
+AST=./config/GameObjects/asteroid.txt
+BLT=./config/GameObjects/Bullet.txt
+EBT=./config/GameObjects/eBullet.txt
+PAR-T=./config/GameObjects/particleThrust.txt
